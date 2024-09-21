@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394616728305",
+    "project_id": "pushnotific-2d30e",
+    "storage_bucket": "pushnotific-2d30e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394616728305:android:24ae60ede144524c3cd750",
+        "android_client_info": {
+          "package_name": "com.example.notifics_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkTQ3WmkCyfSvezs9BIeC_wRDCED9hr9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
